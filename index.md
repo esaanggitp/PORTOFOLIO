@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## ESA ANGGIT PANGESTU
 
-You can use the [editor on GitHub](https://github.com/esaanggitp/esaanggitpangestu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### SERTIFIKAT
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+• Sertifikat Kopentensi Belajar Dasar Pemograman Web 04 September 2020 (Dikoding)
+• Sertifikat Kompetensi Jaringan Junior Network Administrator 29 November 2019 (LSP
+Komputer)
+• Sertifikat Kompetensi CCNA Routing And Switching: Introduction To Networks (CISCO)
+• Sertifikat Nation Seminar “Get Ready To Be The Next Digital Entrepreneur (Telkomsel)
+• Sertifikat Pusat Pengembangan Dan Motifasi Entrepreneure Bsi “Entrepreneure For All”
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### PELATIHAN DAN SEMINAR
 
-### Jekyll Themes
+```markdown
+• Pelatihan sertifikasi Kompetensi Berbasis SKKNI Bidang Junior Network Administrator
+22-26 Oktober 2019 BPSDMP Kominfo Yogyakarta
+• Pelatihan Belajar Dasar Pemograman Web
+04 Agustus – 04 September 2020 Dikoding
+• Pelatihan CCNA Routing And Switching: Introduction To Networks (CISCO)
+• Seminar Entrepreneure For All
+08 Oktober 2015 BSI Purwokerto
+• Seminar “Get Ready To Be The Next Digital Entrepreneur (Telkomsel)
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esaanggitp/esaanggitpangestu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Pengalaman Pembuatan Projek
 
-### Support or Contact
+```markdown
+• Lading Page Jualan Undangan Pernikahan Website Dinamis (Php Mysqli)
+• Website E_Commerce
+• Aplikasi Penyewaan Mobil (visual basic)
+• Aplikasi kasir Berbasis Web Php
+• Aplikasi Stok barang berbasis web (codeigniter)
+• Aplikasi Kasir Berbasis OOP (codeigniter)
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
