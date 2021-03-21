@@ -15,12 +15,12 @@
 
 ```markdown
 • Pelatihan sertifikasi Kompetensi Berbasis SKKNI Bidang Junior Network Administrator
-22-26 Oktober 2019 BPSDMP Kominfo Yogyakarta
+  22-26 Oktober 2019 BPSDMP Kominfo Yogyakarta
 • Pelatihan Belajar Dasar Pemograman Web
-04 Agustus – 04 September 2020 Dikoding
+  04 Agustus – 04 September 2020 Dikoding
 • Pelatihan CCNA Routing And Switching: Introduction To Networks (CISCO)
 • Seminar Entrepreneure For All
-08 Oktober 2015 BSI Purwokerto
+  08 Oktober 2015 BSI Purwokerto
 • Seminar “Get Ready To Be The Next Digital Entrepreneur (Telkomsel)
 ```
 
