@@ -4,12 +4,11 @@
 #### SERTIFIKAT
 
 ```markdown
-• Sertifikat Kopentensi Belajar Dasar Pemograman Web 04 September 2020 (Dikoding)
-• Sertifikat Kompetensi Jaringan Junior Network Administrator 29 November 2019 (LSP
-Komputer)
-• Sertifikat Kompetensi CCNA Routing And Switching: Introduction To Networks (CISCO)
-• Sertifikat Nation Seminar “Get Ready To Be The Next Digital Entrepreneur (Telkomsel)
-• Sertifikat Pusat Pengembangan Dan Motifasi Entrepreneure Bsi “Entrepreneure For All”
+• Belajar Dasar Pemograman Web 04 September 2020 (Dikoding)
+• Jaringan Junior Network Administrator 29 November 2019 (LSPKomputer)
+• CCNA Routing And Switching: Introduction To Networks (CISCO)
+• Nation Seminar “Get Ready To Be The Next Digital Entrepreneur (Telkomsel)
+• Pusat Pengembangan Dan Motifasi Entrepreneure Bsi “Entrepreneure For All”
 ```
 
 #### PELATIHAN DAN SEMINAR
